@@ -12,5 +12,8 @@
 Изменения по просьбе Кирилла.
 Изменения после создания новой ветки ... КУДА ОНИ ПОПАДУТ?
 Добавил разработчика Neophyte8888
+
 изменения from desktop Neophyte8888
-branch2branch
+branch2branc
+изменения desktop Neophyte8888
+
